@@ -5,8 +5,8 @@ https://user-images.githubusercontent.com/97863433/155835132-7d6fd736-c5af-4a1d-
 
 
 
-I know basic Linux, HTML, and CSS. 💻 <br>
-I am learning JavaScript and want to learn React, Advanced Linux, Networking, Python, and C. 🧙‍♂️ <br>
-You can contact me at cadenmccurley@gmail.com 📩 <br>
+I know basic JavaScript, Linux, HTML, and CSS. 💻 <br>
+I am want to learn React, Advanced Linux, Networking, Python, and C. 🧙‍♂️ <br>
+You can contact me at cadenmccurley(at)gmail(dot)com 📩
 
 
