@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/97863433/155835132-7d6fd736-c5af-4a1d-
 
 I'm currently attending my 2nd year of college as a Computer Science Major. <br>
 I like coding, astrophotography, and playing/making games. <br>
-I know JavaScript, Python, Linux, HTML, and CSS. 💻 <br>
+I know JavaScript, Python, Java, Linux, HTML, and CSS. 💻 <br>
 I want to learn web frameworks (currently learning Astro), More Linux (there's always more to learn about Linux), networking, and C. 🧙‍♂️ <br>
 You can contact me at cadenmccurley(at)gmail(dot)com 📩
 
