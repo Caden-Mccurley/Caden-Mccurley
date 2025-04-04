@@ -1,7 +1,7 @@
 https://user-images.githubusercontent.com/97863433/155835132-7d6fd736-c5af-4a1d-a914-24eeb7877dab.mp4
 # <p align="center">My name is Caden
 
-## <p align="center">I'm 1️⃣8️⃣ years old.
+## <p align="center">I'm 1️⃣9️⃣ years old.
 
 
 I'm currently attending my 2nd year of college as a Computer Science Major. <br>
